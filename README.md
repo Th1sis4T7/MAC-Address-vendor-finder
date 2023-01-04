@@ -6,7 +6,7 @@ simple tool finds information about your mac address
 ```term
 git clone https://github.com/Th1sis4T7/MAC-Address-vendor-finder
 ```
-Then chmod 'Check.sh' by this command:
+Then chmod 'mac-vendor-finder.py' by this command:
 ```term
 chmod +x mac-vendor-finder.py
 ```
